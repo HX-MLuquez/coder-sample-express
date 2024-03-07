@@ -1,0 +1,117 @@
+[
+    {
+        "id": "0213",
+        "category": "tv",
+        "name": "LG",
+        "price": 54,
+        "stock": 5,
+        "description": "tv Smart 32 pulgadas LG" 
+    },
+    {
+        "id": "0293",
+        "category": "celular",
+        "name": "Samsung",
+        "price": 12,
+        "stock": 2,
+        "description": "celular Samsung E5" 
+    },
+    {
+        "id": "0321",
+        "category": "tv",
+        "name": "Sony",
+        "price": 75,
+        "stock": 8,
+        "description": "TV LED 40 pulgadas Sony Bravia"
+    },
+    {
+        "id": "0456",
+        "category": "celular",
+        "name": "iPhone",
+        "price": 800,
+        "stock": 3,
+        "description": "iPhone 12 Pro Max"
+    },
+    {
+        "id": "0789",
+        "category": "pc",
+        "name": "HP",
+        "price": 650,
+        "stock": 6,
+        "description": "Laptop HP Pavilion 15.6 pulgadas"
+    },
+    {
+        "id": "0987",
+        "category": "tablet",
+        "name": "Samsung",
+        "price": 400,
+        "stock": 4,
+        "description": "Tablet Samsung Galaxy Tab S7"
+    },
+    {
+        "id": "1111",
+        "category": "tablet",
+        "name": "iPad",
+        "price": 600,
+        "stock": 10,
+        "description": "iPad Pro 11 pulgadas (2021)"
+    },
+    {
+        "id": "2222",
+        "category": "celular",
+        "name": "Google",
+        "price": 700,
+        "stock": 6,
+        "description": "Google Pixel 6 Pro"
+    },
+            
+    {
+        "id": "3333",
+        "category": "pc",
+        "name": "Dell",
+        "price": 900,
+        "stock": 8,
+        "description": "Laptop Dell XPS 13"
+    },
+            
+    {
+        "id": "4444",
+        "category": "tv",
+        "name": "Samsung",
+        "price": 800,
+        "stock": 7,
+        "description": "TV QLED 55 pulgadas Samsung"
+    },
+            
+    {
+        "id": "5555",
+        "category": "tablet",
+        "name": "Microsoft",
+        "price": 400,
+        "stock": 5,
+        "description": "Surface Go 2"
+    },
+    {
+        "id": "6666",
+        "category": "celular",
+        "name": "OnePlus",
+        "price": 550,
+        "stock": 9,
+        "description": "OnePlus 9"
+    },
+    {
+        "id": "7777",
+        "category": "pc",
+        "name": "Apple",
+        "price": 1200,
+        "stock": 4,
+        "description": "MacBook Pro 13 pulgadas (M1, 2020)"
+    },
+    {
+        "id": "8888",
+        "category": "tv",
+        "name": "Sony",
+        "price": 1000,
+        "stock": 3,
+        "description": "TV OLED 65 pulgadas Sony Bravia"
+    }    
+]
